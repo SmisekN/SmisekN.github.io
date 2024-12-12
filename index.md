@@ -4,7 +4,7 @@ This is my home page! My name is Nickolas Smisek and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/SmisekN.
+My GitHub page is [http://github.com/SmisekN](http://github.com/SmisekN).
 
 ### CPSC 120
 
